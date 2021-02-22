@@ -78,19 +78,31 @@
                         content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, 
                         and a search for 'lorem ipsum' will uncover many web sites still in their infancy. 
                         Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+
+
+                        <div class="card" style="width: 18rem;">
+                            <img src="img/muscle.jpg" class="card-img-top" alt="...">
+                            <div class="card-body">
+                                <h5 class="card-title">Muscle de Hicham</h5>
+                                <p class="card-text">Hicham le plus beau.</p>
+                                <a href="https://www.west-club.fr/?gclid=CjwKCAiAyc2BBhAaEiwA44-wWxjGzZ6M_0tZ9sSLHAPsWQBEdpJh7owxaRO73OYeK51bMuSo3o6gGRoCbzgQAvD_BwE" class="btn btn-primary">GO A LA SALLE</a>
+                            </div>
+                        </div>
         </div>
 
-         <div class="row">
+
+         
             <div class="mx-auto" style="min-height: 10vh">
 
                 <span class="alert alert-warning mx-auto"> AUCUN CONFLIT </span>
 
             </div>
-         </div>   
-        <footer class="bg-dark py-3 text-white text-center justify-content-center align-items-center d-flex" style="min-height: 10vh;">
-            <span class="alert" style="font-size: 1vw;">
-             &copy; FH - DANS LE LIN LEGACY - 2021
-             </span> 
+          
+      
+
+        <footer class="bg-dark text-white text-center justify-content-center align-items-center d-flex" style="min-height: 10vh;">
+            &copy; FH & MJ - DANS LE LIN LEGACY - 2021
+
         </footer>
     </body>
 </html>     
