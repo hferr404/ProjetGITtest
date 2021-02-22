@@ -80,8 +80,17 @@
                         Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
         </div>
 
-        <footer class="bg-dark text-white text-center justify-content-center align-items-center d-flex" style="min-height: 10vh;">
-            &copy; FH - DANS LE LIN LEGACY - 2021
+         <div class="row">
+            <div class="mx-auto" style="min-height: 10vh">
+
+                <span class="alert alert-warning mx-auto"> AUCUN CONFLIT </span>
+
+            </div>
+         </div>   
+        <footer class="bg-dark py-3 text-white text-center justify-content-center align-items-center d-flex" style="min-height: 10vh;">
+            <span class="alert" style="font-size: 1vw;">
+             &copy; FH - DANS LE LIN LEGACY - 2021
+             </span> 
         </footer>
     </body>
 </html>     
