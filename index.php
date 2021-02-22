@@ -55,29 +55,9 @@
                         <h1 class="display-4 text-center my-5 bg-dark text-white rounded shadow-lg">MON PROJET GIT</h1>
 
 
-                        <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                <img class="d-block w-100" src="..." alt="First slide">
-                </div>
-                <div class="carousel-item">
-                <img class="d-block w-100" src="..." alt="Second slide">
-                </div>
-                <div class="carousel-item">
-                <img class="d-block w-100" src="..." alt="Third slide">
-                </div>
-            </div>
-            <a class="carousel-control-prev" href="https://picsum.photos/200/300" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" href="https://picsum.photos/200/300git status" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-            </a>
-            </div>
+            
 
-        <h1 class="display-4 text-center bg-dark text-white rounded shadow-lg my-5">PROJET GIT TEST</h1>
+      
         <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
@@ -93,7 +73,7 @@
             </div>
                 
             <h4 class="display-5 text-center text-white bg-dark rounded col-md-5 mx-auto my-4">BLABLABLA</h4>
-                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. 
+                        <p class="card-text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. 
                         The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, 
                         content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, 
                         and a search for 'lorem ipsum' will uncover many web sites still in their infancy. 
