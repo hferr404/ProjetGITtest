@@ -12,9 +12,9 @@
 </head>
     
     <body> 
-        <div class="container" style="min-height: 70vh;">
-                    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-            <a class="navbar-brand" href="#">Navbar</a>
+        <div class="container" style="min-height: 82vh;">
+                    <nav class="navbar navbar-expand-lg navbar-light bg-light py-4">
+            <a class="navbar-brand" href="#">PROJET GIT</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" 
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -46,7 +46,7 @@
                 </ul>
                 <form class="form-inline my-2 my-lg-0">
                 <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Rechercher</button>
                 </form>
             </div>
             </nav>
@@ -92,7 +92,7 @@
             </div>
             </div>
                 
-            <h4 class="display-4"></h4>
+            <h4 class="display-5 text-center text-white bg-dark rounded col-md-5 mx-auto my-4">BLABLABLA</h4>
                         <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. 
                         The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, 
                         content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, 
@@ -100,7 +100,7 @@
                         Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
         </div>
 
-        <footer class="bg-dark text-white text-center">
+        <footer class="bg-dark text-white text-center justify-content-center align-items-center d-flex" style="min-height: 10vh;">
             &copy; FH - DANS LE LIN LEGACY - 2021
         </footer>
     </body>
