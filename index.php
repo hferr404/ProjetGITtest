@@ -90,8 +90,19 @@
                         </div>
         </div>
 
+
+         
+            <div class="mx-auto" style="min-height: 10vh">
+
+                <span class="alert alert-warning mx-auto"> AUCUN CONFLIT </span>
+
+            </div>
+          
+      
+
         <footer class="bg-dark text-white text-center justify-content-center align-items-center d-flex" style="min-height: 10vh;">
             &copy; FH & MJ - DANS LE LIN LEGACY - 2021
+
         </footer>
     </body>
 </html>     
